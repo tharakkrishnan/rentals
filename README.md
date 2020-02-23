@@ -1,1 +1,1 @@
-# rentals
+# Rental search
